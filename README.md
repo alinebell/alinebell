@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @alinebell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alinebell/alinebell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m  Aline Beltrão @alinebell
+- 👀 I’m interested in  desenvolvimento front end/full stack
+- 🌱 I’m currently learning  Html, CSS, JavaScript
+- 💞️ I’m looking to collaborate on  tarefas que possam ser desenvolvidas por iniciantes
+- 📫 How to reach me : você pode me mandar um e-mail! alinebelltrao@gmail.com
