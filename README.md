@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Aline Beltrão @alinebell
-- 👀 I’m interested in  desenvolvimento front end/full stack
-- 🌱 I’m currently learning  Html, CSS, JavaScript
-- 💞️ I’m looking to collaborate on  tarefas que possam ser desenvolvidas por iniciantes
-- 📫 How to reach me : você pode me mandar um e-mail! alinebelltrao@gmail.com
+- 👋 Olá, meu nome é Aline Beltrão
+- 👀 Estou interessada em desenvolvimento FrontEnd
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 💞️ Eu posso e estou interessada em contribuir em projetos que possam ser desenvolvidos por iniciantes
+- 📫 Como você pode entrar em contato comigo? Pode enviar um e-mail para alinebelltrao@gmail.com
