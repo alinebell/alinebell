@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Aline Beltrão
+- 👋 Olá, meu nome é Aline Beltrão @alinebell
 - 👀 Estou interessada em desenvolvimento FrontEnd
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
 - 💞️ Eu posso e estou interessada em contribuir em projetos que possam ser desenvolvidos por iniciantes
