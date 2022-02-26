@@ -1,4 +1,4 @@
-- ## 👋 Olá, meu nome é Aline Beltrão (@alinebell)
+ ## 👋 Olá, meu nome é Aline Beltrão (@alinebell)
  
 - 🎓 Sou estudande de Análise e Desenvolvimento de Sistemas e meu interesse é ser desenvolvedora Front end
 - 🛠️ Estou interessada em contribuir em projetos que possam ser desenvolvidos por iniciantes
