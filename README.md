@@ -19,9 +19,9 @@
 **Estou aprendendo:** <br>
  <img align="center" alt="Logo-html" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
  <img align="center" alt="Logo-CSS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
- <img align="center" alt="Logo-JAVA" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
- <img align="center" alt="Logo-Spring" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
- <img align="center" alt="Logo-MySQL" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+ <img align="center" alt="Logo-JAVA" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+ <img align="center" alt="Logo-Spring" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+ <img align="center" alt="Logo-MySQL" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
  
            
           
