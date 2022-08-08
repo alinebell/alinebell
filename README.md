@@ -19,6 +19,16 @@
 **Estou aprendendo:** <br>
  <img align="center" alt="Logo-html" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
  <img align="center" alt="Logo-CSS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
- <img align="center" alt="Logo-JavaScript" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="Logo-Vue" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+ <img align="center" alt="Logo-JAVA" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+ <img align="center" alt="Logo-Spring" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+ <img align="center" alt="Logo-MySQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+ 
+           
+          
+          
+
+
+            
+          
+ 
  
