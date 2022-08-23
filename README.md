@@ -1,8 +1,8 @@
  ## 👋 Olá, meu nome é Aline Beltrão (@alinebell)
  
-- 🎓 Sou estudande de Análise e Desenvolvimento de Sistemas e meu interesse é ser desenvolvedora Front end
+- 🎓 Sou estudande de Análise e Desenvolvimento de Sistemas e meu interesse é ser desenvolvedora Back End
 - 🛠️ Estou interessada em contribuir em projetos que possam ser desenvolvidos por iniciantes
-- ⚙️ Estou disponível para preencher uma vaga de estágio em desenvolvimento Front end!
+- ⚙️ Estou disponível para preencher uma vaga em desenvolvimento Back End!
 - 📫 Como você pode entrar em contato comigo? Pode enviar um e-mail para alinebelltrao@gmail.com <br>
 <br>
 
