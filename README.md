@@ -22,6 +22,9 @@
  <img align="center" alt="Logo-JAVA" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
  <img align="center" alt="Logo-Spring" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
  <img align="center" alt="Logo-MySQL" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+ <img align="center" alt="Logo-MySQL" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+ <img align="center" alt="Logo-MySQL" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+ 
  
            
           
