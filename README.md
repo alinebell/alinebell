@@ -53,7 +53,7 @@
  
  Thanks for visiting my profile
  
- <img src= "https://giphy.com/embed/LrRoAXE21Nah36WNxA" width="50">
+ <img src= "https://media.giphy.com/media/LrRoAXE21Nah36WNxA/giphy.gif" width="50">
  
  
  
