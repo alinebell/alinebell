@@ -10,6 +10,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinebeltrao/)
 
+### More about me
+
+- I love movies, tv series and gaphic novels.
+
 <br>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinebell&show_icons=true&theme=cobalt"/>
@@ -21,7 +25,7 @@
 
 **I’m currently learning react:** <br>
  <img align="center" alt="Logo-react" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
- <img align="center" alt="Logo-MySQL" height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+ <img align="center" alt="Logo-js" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>         
            
  <br>
  
@@ -37,7 +41,7 @@
   <br><br>        
  
 ## My Badges
-[![@alinebell Holopin board](https://holopin.io/api/user/board?user=alinebell)](https://www.holopin.io/@alinebell)
+
 
 <br /><br />
 
