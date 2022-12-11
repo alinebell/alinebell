@@ -12,9 +12,9 @@
 
 ### More about me
 
-
+<img align="right" src= "https://media.giphy.com/media/iEw1RZrUxNgQLdG38g/giphy.gif" width="300"> 
 - I love movies, tv series and gaphic novels. 
-- I like to cook, make handcraft things like crochet and woodwork. <img src= "https://media.giphy.com/media/iEw1RZrUxNgQLdG38g/giphy.gif" width="300"> <br />
+- I like to cook, make handcraft things like crochet and woodwork. <br />
 - I have two little birds, australian parakeets, called Geladinho and Joaninha. 
 - 
 <br>
