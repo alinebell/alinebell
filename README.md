@@ -13,10 +13,10 @@
 ### More about me
 
 
-- I love movies, tv series and gaphic novels. <img src= "https://media.giphy.com/media/12J32T2Ghb2G1q/giphy.gif" width="300"> <br />
+- I love movies, tv series and gaphic novels. 
 - I like to cook, make handcraft things like crochet and woodwork. <img src= "https://media.giphy.com/media/iEw1RZrUxNgQLdG38g/giphy.gif" width="300"> <br />
-- I have two little birds, australian parakeets, called Geladinho and Joaninha. <img src= "https://media.giphy.com/media/12aC2hH2jrDpDi/giphy.gif" width="300"> <br />
-
+- I have two little birds, australian parakeets, called Geladinho and Joaninha. 
+- 
 <br>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinebell&show_icons=true&theme=cobalt"/>
