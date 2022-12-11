@@ -1,10 +1,13 @@
- <p align="center"> 
-  <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif"/>
-</p>
- ## 👋 Hello, my name is Aline Beltrão (@alinebell) 
-- 🎓 I'm a frontend developer and a software development student.
+<h1> 👋 Hello, my name is Aline Beltrão (@alinebell) </h1>
+ <!-- headline gif -->
+<img align="right" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="20%"/>
+
+<p>
+ - 🎓 I'm a frontend developer and a software development student.
 - ⚙️ I am available to fill a job vacancy in frontend development. 
-- 📫 How do you contact with me? You can send an e-mail to alinebelltrao@gmail.com <br>
+- 📫 How do you contact with me? You can send an e-mail to alinebelltrao@gmail.com 
+</p> <br>
+
 <br>
 <br>
 
@@ -18,8 +21,8 @@
 -<img src="https://media.giphy.com/media/m9ikAUw42SGghvT0jj/giphy.gif" alt="STAR" width="40"> I love movies, tv series and gaphic novels. <br />
 -<img src="https://media.giphy.com/media/Vf28HCCnz0L0GwSDLZ/giphy.gif" alt="STAR" width="40"> I like to cook, make handcraft things like crochet and woodwork. <br />
 -<img src="https://media.giphy.com/media/12aC2hH2jrDpDi/giphy.gif" alt="STAR" width="40"> I have two little birds, australian parakeets, called Geladinho and Joaninha. 
-- 
-- 
+
+- <img src="https://media.giphy.com/media/12aC2hH2jrDpDi/giphy.gif" alt="STAR" width="40"> &nbsp;I have two little birds, australian parakeets, called Geladinho and Joaninha
 
 <br /><br /><br /><br />
 
