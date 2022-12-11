@@ -1,4 +1,4 @@
- ## 👋 Hello, my name is Aline Beltrão (@alinebell)
+ ## 👋 Hello, my name is Aline Beltrão (@alinebell) <img src= "https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="300"> 
  
 - 🎓 I'm a frontend developer and a software development student.
 - ⚙️ I am available to fill a job vacancy in frontend development. 
@@ -12,7 +12,10 @@
 
 ### More about me
 
-- I love movies, tv series and gaphic novels.
+
+- I love movies, tv series and gaphic novels. <img src= "https://media.giphy.com/media/12J32T2Ghb2G1q/giphy.gif" width="300"> <br />
+- I like to cook, make handcraft things like crochet and woodwork. <img src= "https://media.giphy.com/media/iEw1RZrUxNgQLdG38g/giphy.gif" width="300"> <br />
+- I have two little birds, australian parakeets, called Geladinho and Joaninha. <img src= "https://media.giphy.com/media/12aC2hH2jrDpDi/giphy.gif" width="300"> <br />
 
 <br>
 <div>
@@ -51,9 +54,9 @@
  
  
  
- Thanks for visiting my profile
+ Thanks for visiting my profile, see you!
  
- <img src= "https://media.giphy.com/media/LrRoAXE21Nah36WNxA/giphy.gif" width="50">
+ <img src= "https://media.giphy.com/media/LrRoAXE21Nah36WNxA/giphy.gif" width="400">
  
  
  
