@@ -47,9 +47,10 @@
 
 ## I’m currently learning react:
 <br />
+<p>
  <img align="center" alt="Logo-react" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
  <img align="center" alt="Logo-js" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>         
-           
+</p>          
  <br /><br />
  
 ## I have some knowledge in: 
@@ -80,7 +81,7 @@ https://github.com/users/alinebell/achievements/yolo
  
  # Thanks for visiting my profile, see you! 👋 
  
- <img align="center" src= "https://media.giphy.com/media/dzMu8oCKwBbpUFMBNs/giphy.gif" width="400">
+ <img align="center" src= "https://media.giphy.com/media/dzMu8oCKwBbpUFMBNs/giphy.gif" width="300">
  
  
  
