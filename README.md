@@ -19,13 +19,11 @@
 
 ## More about me:
 
-<img align="right" src= "https://media.giphy.com/media/iEw1RZrUxNgQLdG38g/giphy.gif" width="300"> 
-
-- <img src="https://media.giphy.com/media/m9ikAUw42SGghvT0jj/giphy.gif" alt="STAR" width="60"> &nbsp;I love movies, tv series and graphic novels
-- <img src="https://media.giphy.com/media/Vf28HCCnz0L0GwSDLZ/giphy.gif" alt="STAR" width="60"> &nbsp;I like to cook, make handcraft things like crochet and woodwork
-- <img src="https://media.giphy.com/media/12aC2hH2jrDpDi/giphy.gif" alt="STAR" width="60"> &nbsp;I have two little birds, australian parakeets, called Geladinho and Joaninha
-- <img src="https://media.giphy.com/media/j3UsbwCrCGg3m4OgNF/giphy.gif" alt="STAR" width="60"> &nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` ...
-- <img src="https://media.giphy.com/media/jSuu6dQWhSEQE/giphy.gif" alt="STAR" width="60">&nbsp;I’m looking for help with API's!
+-  &nbsp;I love movies, tv series and graphic novels
+-  &nbsp;I like to cook, make handcraft things like crochet and woodwork
+-  &nbsp;I have two little birds, australian parakeets, called Geladinho and Joaninha
+-  &nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` ...
+-  &nbsp;I’m looking for help with API's!
 
 <br /><br /><br /><br />
 
